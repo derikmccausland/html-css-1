@@ -1,0 +1,15 @@
+h1 {
+    color:darkblue;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+img {
+     height: 400px;
+    /* width: 600px; */
+    /* margin: 50px; */ 
+    /* padding: 100px; */
+}
+/* img {
+    height: 100vh; this will fill the image to the hight of the window
+    width: 100vh;  this will fill the image to the width of the window
+} */
